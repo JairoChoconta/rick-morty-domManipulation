@@ -27,7 +27,7 @@ window
       title.textContent = item.name;
       // crear especie:
       const specieCharacter = document.createElement("div");
-      specieCharacter.textContent = item.species;
+      specieCharacter.textContent = `Specie: ${item.species}`;
       
       //Cada grupo img, name, specie, se mete en un div:
       const container = document.createElement("div"); 
