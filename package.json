@@ -1,5 +1,5 @@
 {
-  "homepage": "https://rick-morty-domManipulation.github.io/el-nombre-de-tu-repo",
+  "homepage": "https://rick-morty-domManipulation.github.io/rick-morty-domManipulation",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
