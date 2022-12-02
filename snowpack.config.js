@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: '',
+    baseUrl: 'https://rick-morty-domManipulation.github.io/nombre-del-repo',
   },
 }
